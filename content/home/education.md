@@ -32,9 +32,11 @@ subtitle = ""
   
 [design]
   # Toggle between the various page layout types.
-                            <li> <Strong> Doctor of Philosophy (2018-Present) -- </strong> Nanyang Technological University, Singapore (NTUSg)  </li>
-                          <li> <Strong> Master of Technology (2016-2018) -- </strong> Indian Institute of Technology Delhi, India (IITD) </li>
-						  <li> <Strong> Bachelor of Technology (2011-2015) -- </strong> Rajasthan Technical University Kota, Rajasthan (RTU)  </li>
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -63,6 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
+                             <li> <Strong> Doctor of Philosophy (2018-Present) -- </strong> Nanyang Technological University, Singapore (NTUSg)  </li>
+                          <li> <Strong> Master of Technology (2016-2018) -- </strong> Indian Institute of Technology Delhi, India (IITD) </li>
+						  <li> <Strong> Bachelor of Technology (2011-2015) -- </strong> Rajasthan Technical University Kota, Rajasthan (RTU)  </li>
  
  
 +++
