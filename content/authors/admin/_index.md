@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Power System Optimization
+    institution: Nangyang Technological Univeristy, Singapore
+    year: 2018-Current
+  - course: Master of Technology in Energy Studies
+    institution: Indian Institute of Technology Delhi, India
+    year: 2016-2018
+  - course: Bachelor of Technology in Electrical Engineering
+    institution: Rajasthan Technical University Kota, India
+    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
