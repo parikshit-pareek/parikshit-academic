@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Parikshit Pareek
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Nangyang Technological Univeristy
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Power System Optimization
+- Convex Relaxation, Restriction and Optimization,
+- Intrepretable Machine Learning Tools 
 
 education:
   courses:
