@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
- <a style="color:#0000FF" target="_blank" href="https://posoco.in/side-menu-pages/posoco-power-system-awards/">POSOCO Power System Award-2019 </a> for <b> Best Master's Thesis in Power System </b> by <i> Power System Operation Corporation Limited, India. </i>
+
                              
 
 +++
