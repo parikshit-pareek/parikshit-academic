@@ -19,5 +19,3 @@
                              <a style="color:#0000FF" target="_blank" href="http://www.iitd.ac.in/convocation/2018/prizesandmedals.pdf"> Bhagirathi - Bashisht Tiwari Award-2018</a> for <b> Highest CGPA in M.Tech Energy Studies Batch 2016-18 </b> by <i> Centre for Energy Studies, Indian Institute of Technology Delhi, India. </i>
                              </li>
 
-                            
-                         </ul>
